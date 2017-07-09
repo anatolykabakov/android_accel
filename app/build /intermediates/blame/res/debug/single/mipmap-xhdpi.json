@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/anatoly/Downloads/Android_Studio_Accelerometer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/anatoly/Downloads/Android_Studio_Accelerometer/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

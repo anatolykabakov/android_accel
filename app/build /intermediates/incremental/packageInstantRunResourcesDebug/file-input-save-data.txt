@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sun Jul 09 13:03:35 MSK 2017
+2.base=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_/res/mipmap-hdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_/res/menu/menu_main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+5.base=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xhdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_/res/mipmap-mdpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/anatoly/Downloads/Android_Studio_Tut_6_Accelerometer-master/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xxhdpi-v4/ic_launcher.png
+0.set=ANDROID_RESOURCE
